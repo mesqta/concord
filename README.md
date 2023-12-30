@@ -12,8 +12,7 @@
  ## Como usar:
  
 <p>
-      <b>Method 0 :</b></p>
-
+  
 - Certifique-se de ter o Node.js instalado em seu sistema.
 - Clone este repositório
 - Instale as dependências usando o comando: npm ```install```
