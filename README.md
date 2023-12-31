@@ -14,7 +14,7 @@
 <p>
   
 - Certifique-se de ter o Node.js instalado em seu sistema.
-- Clone este repositório
-- Instale as dependências usando o comando: npm ```install```
+- Clone este repositório.
+- Instale as dependências usando o comando: ```npm install```
 - Inicie o servidor Node.js: ```node server.js```
 ---
