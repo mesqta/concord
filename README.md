@@ -1,5 +1,6 @@
 
- * **Este é um projeto de estudo. Caso tenha interesse em pegá-lo para continuar alguma coisa, sinta-se à vontade.** 
+ * **Este é um projeto de estudo. Caso tenha interesse em pegá-lo para continuar alguma coisa, sinta-se à vontade.**
+ * **Este projeto é um chat online para você conversar com seus amigos. Hospede o projeto em alguma hospedagem ou compartilhe o projeto pelo ngrok.** 
   ---
  ## Node.js e Express:
  - O servidor é construído usando o Node.js, uma plataforma JavaScript do lado do servidor.
